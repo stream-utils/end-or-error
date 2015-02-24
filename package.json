@@ -1,6 +1,6 @@
 {
   "name": "end-or-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Listen readable stream `end` or `error` event once",
   "main": "index.js",
   "files": ["index.js"],
