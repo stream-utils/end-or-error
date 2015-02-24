@@ -1,7 +1,7 @@
 /**!
  * end-or-error - index.js
  *
- * Copyright(c) node-modules and other contributors.
+ * Copyright(c) stream-utils and other contributors.
  * MIT Licensed
  *
  * Authors:

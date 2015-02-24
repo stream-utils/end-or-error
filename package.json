@@ -23,18 +23,18 @@
     "istanbul": "*",
     "mocha": "*"
   },
-  "homepage": "https://github.com/node-modules/end-or-error",
+  "homepage": "https://github.com/stream-utils/end-or-error",
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-modules/end-or-error.git",
-    "web": "https://github.com/node-modules/end-or-error"
+    "url": "git://github.com/stream-utils/end-or-error.git",
+    "web": "https://github.com/stream-utils/end-or-error"
   },
   "bugs": {
-    "url": "https://github.com/node-modules/end-or-error/issues",
+    "url": "https://github.com/stream-utils/end-or-error/issues",
     "email": "m@fengmk2.com"
   },
   "keywords": [
-    "end-or-error", "readstream", "readable", "stream", "end", "eoe"
+    "end-or-error", "readstream", "readable", "stream", "end", "eoe", "stream-utils"
   ],
   "engines": {
     "node": ">= 0.11.14"
